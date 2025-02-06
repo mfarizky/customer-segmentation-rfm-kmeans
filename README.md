@@ -92,7 +92,7 @@ Results will include:
         - Characteristics: Rarely make transactions and show a high potential for churn.
         - Potential: Immediate action is needed to engage or retain these customers, as they are at risk of leaving without intervention.
 
-![Segmentation](E:/Coding/Project/customer_segmentation/images/segmentation%20output.png)
+![Segmentation](customer_segmentation/images/segmentation%20output.png)
 
 
 ## How to Use
