@@ -98,7 +98,7 @@ Results will include:
 ## How to Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/mfarizky/customer-segmentation.git
+git clone https://github.com/mfarizky/customer_segmentation.git
 ```
 2. Navigate to the project directory:
 ```bash
