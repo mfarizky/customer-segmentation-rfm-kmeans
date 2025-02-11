@@ -1,4 +1,4 @@
-# Customer Segmentation Project
+# Customer Segmentation Using RFM Analysis & Kmeans 
 
 ## Overview
 This project focuses on identifying meaningful customer segments using **RFM Analysis** and **Machine Learning**. Customer segmentation allows businesses to tailor their marketing strategies and improve customer satisfaction by understanding customer behavior and preferences. The analysis uses the Superstore dataset as its foundation.
